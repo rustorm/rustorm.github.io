@@ -1,0 +1,17 @@
+# Site settings
+title: Rustorm - ORM for rust 
+description: >
+  Documentation for rustorm
+baseurl: ""
+url: "http://ivanceras.github.io"
+logo: "https://avatars0.githubusercontent.com/u/7972655?v=3&s=460"
+twitter_username: ivanceras 
+github_username:  ivanceras
+
+# Build settings
+highlighter: pygments
+markdown: redcarpet
+redcarpet:
+  extensions: ["with_toc_data", "smart"]
+
+root: http://ivanceras.github.io 
